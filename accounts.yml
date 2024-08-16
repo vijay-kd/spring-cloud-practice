@@ -5,7 +5,7 @@ build:
   version: "5.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Dummy 12 APIs "
+  message: "Welcome to EazyBank accounts related PRODUCTION APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
