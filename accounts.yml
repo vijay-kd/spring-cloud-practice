@@ -6,7 +6,7 @@ spring:
 accounts:
   build:
     version: "5.0"
-  message: "Welcome to EazyBank accounts related P APIs "
+  message: "Welcome to EazyBank accounts related VK APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
