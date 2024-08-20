@@ -1,7 +1,6 @@
-build:
-  version: "3.0"
-
 accounts:
+  build:
+    version: "3.0"
   message: "Welcome to EazyBank accounts related TESTING APIs "
   contactDetails:
     name: "John Doe - Developer"

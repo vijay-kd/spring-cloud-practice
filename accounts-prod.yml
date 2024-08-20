@@ -1,7 +1,8 @@
-build:
-  version: "1.0"
 
 accounts:
+  build:
+    version: "1.0"
+
   message: "Welcome to EazyBank accounts related PRODUCTION APIs "
   contactDetails:
     name: "John Doe - Developer"
